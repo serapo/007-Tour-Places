@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/007-Tour-Places/static/css/main.bd129d42.css",
+    "main.js": "/007-Tour-Places/static/js/main.bfe79b4e.js",
+    "static/js/787.6c3fad03.chunk.js": "/007-Tour-Places/static/js/787.6c3fad03.chunk.js",
+    "index.html": "/007-Tour-Places/index.html",
+    "main.bd129d42.css.map": "/007-Tour-Places/static/css/main.bd129d42.css.map",
+    "main.bfe79b4e.js.map": "/007-Tour-Places/static/js/main.bfe79b4e.js.map",
+    "787.6c3fad03.chunk.js.map": "/007-Tour-Places/static/js/787.6c3fad03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd129d42.css",
+    "static/js/main.bfe79b4e.js"
+  ]
+}
